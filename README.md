@@ -1,6 +1,6 @@
 
 # About_Me
-All about me
+
 
 ### Hi there, I'm <a href="https://www.linkedin.com/in/priyaranjan-sethi" target="_blank">Priyaranjan Sethi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -12,7 +12,7 @@ All about me
 
 ### Happy to see you here! 
 
-I am a Data Analyst with strong experience in data analysis, sales analysis, and business intelligence. I enjoy turning raw data into meaningful insights that drive better business decisions.
+I am a Data Analyst with strong experience in data analysis, sales analysis and business intelligence. I enjoy turning raw data into meaningful insights that drive better business decisions.
 
 <img align="right" alt="GIF" src="https://github.com/robopriya/Power-BI-Sales-Dashboard/blob/a13291657768329d5f8e715031dc628299cbccf5/Dashboard%20Image.jpg" width="400" height="225" />
   
