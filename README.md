@@ -1,4 +1,3 @@
-# About-Me
 
 # About_Me
 All about me
@@ -7,7 +6,7 @@ All about me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priyaranjan-sethi/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://moneycorn.in/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.youtube.com/@moneycorn)
+[![Youtube Badge](https://img.shields.io/badge/-youtube-e4405f?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@moneycorn)
 
 
 
